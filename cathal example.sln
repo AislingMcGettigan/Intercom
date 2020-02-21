@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cathal example", "cathal example\cathal example.csproj", "{D0F8246E-7DC6-463D-AA50-2CDC7B9863EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F8246E-7DC6-463D-AA50-2CDC7B9863EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F8246E-7DC6-463D-AA50-2CDC7B9863EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F8246E-7DC6-463D-AA50-2CDC7B9863EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F8246E-7DC6-463D-AA50-2CDC7B9863EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A0988C-77BB-4A59-AFE3-76EB7E0A936A}
+	EndGlobalSection
+EndGlobal

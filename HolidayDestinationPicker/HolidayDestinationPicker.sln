@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayDestinationPicker", "HolidayDestinationPicker\HolidayDestinationPicker.csproj", "{39616ABB-EB01-48A4-BF86-12FE5C64836E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayDestinationPicker.Tests", "HolidayDestinationPicker.Tests\HolidayDestinationPicker.Tests.csproj", "{B763BAFE-E1E9-482E-9241-11876F724843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39616ABB-EB01-48A4-BF86-12FE5C64836E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39616ABB-EB01-48A4-BF86-12FE5C64836E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39616ABB-EB01-48A4-BF86-12FE5C64836E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39616ABB-EB01-48A4-BF86-12FE5C64836E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B763BAFE-E1E9-482E-9241-11876F724843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B763BAFE-E1E9-482E-9241-11876F724843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B763BAFE-E1E9-482E-9241-11876F724843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B763BAFE-E1E9-482E-9241-11876F724843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E4015D-2393-407F-8D57-E6DA620441F1}
+	EndGlobalSection
+EndGlobal
