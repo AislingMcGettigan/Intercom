@@ -1,0 +1,11 @@
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\bin\Debug\netcoreapp2.1\IntercomTest.deps.json
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\bin\Debug\netcoreapp2.1\IntercomTest.runtimeconfig.json
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\bin\Debug\netcoreapp2.1\IntercomTest.runtimeconfig.dev.json
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\bin\Debug\netcoreapp2.1\IntercomTest.dll
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\obj\Debug\netcoreapp2.1\IntercomTest.csprojAssemblyReference.cache
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\obj\Debug\netcoreapp2.1\IntercomTest.csproj.CoreCompileInputs.cache
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\obj\Debug\netcoreapp2.1\IntercomTest.AssemblyInfoInputs.cache
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\obj\Debug\netcoreapp2.1\IntercomTest.AssemblyInfo.cs
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\bin\Debug\netcoreapp2.1\IntercomTest.pdb
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\obj\Debug\netcoreapp2.1\IntercomTest.dll
+C:\Users\aisli\source\repos\IntercomTest\IntercomTest\obj\Debug\netcoreapp2.1\IntercomTest.pdb
